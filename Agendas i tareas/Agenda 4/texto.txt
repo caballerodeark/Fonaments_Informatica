@@ -1,0 +1,4 @@
+Minusculas:  0.0250091%,  Mayusculas: 0%,  Digitos: -3.90014e-34%  y  Simbolos: 2.23234e-08%
+Letras: 0%
+Vocales: 3.2759e+06%
+Consonantes: -inf%

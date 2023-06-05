@@ -1,0 +1,8 @@
+Alex 111634
+David 111340
+Anna 111355
+Cristina 120000
+Josep 111210
+Joan 111303
+Julia 111412
+FI 0

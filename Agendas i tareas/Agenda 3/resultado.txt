@@ -1,0 +1,4 @@
+Promedi temps categoria A: 0 hores i 0 minuts
+Promedi temps categoria B: 0 hores i 0 minuts
+Promedi temps categoria C: 0 hores i 0 minuts
+Porcentaje de personas sin categoria: 1439816304%

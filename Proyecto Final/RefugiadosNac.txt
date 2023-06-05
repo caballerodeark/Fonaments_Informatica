@@ -1,0 +1,126 @@
+Afganistan 2021 39734.30
+Afganistan 2020 43804.76
+Afganistan 2019 44535.52
+Afganistan 2018 48792.27
+Afganistan 2017 50583.66
+Afganistan 2016 45319.15
+Afganistan 2015 41290.32
+Costa_de_Marfil 2021 -1
+Costa_de_Marfil 2020 -1
+Costa_de_Marfil 2019 -1
+Costa_de_Marfil 2018 -1
+Costa_de_Marfil 2017 -1
+Costa_de_Marfil 2016 -1
+Costa_de_Marfil 2015 8591.07
+Eritrea 2021 83084.58
+Eritrea 2020 73913.04
+Eritrea 2019 62081.78
+Eritrea 2018 66666.67
+Eritrea 2017 94871.79
+Eritrea 2016 61702.13
+Eritrea 2015 49382.72
+Iraq 2021 18096.29
+Iraq 2020 17933.84
+Iraq 2019 20656.37
+Iraq 2018 20545.21
+Iraq 2017 17479.37
+Iraq 2016 11709.40
+Iraq 2015 10185.19
+Jamaica 2021 25405.41
+Jamaica 2020 25146.20
+Jamaica 2019 -1
+Jamaica 2018 -1
+Jamaica 2017 -1
+Jamaica 2016 -1
+Jamaica 2015 -1
+Laos 2021 -1
+Laos 2020 -1
+Laos 2019 16000.00
+Laos 2018 17073.17
+Laos 2017 17948.72
+Laos 2016 25000.00
+Laos 2015 34615.38
+Myanmar 2021 -1
+Myanmar 2020 -1
+Myanmar 2019 14814.81
+Myanmar 2018 -1
+Myanmar 2017 17777.78
+Myanmar 2016 14634.15
+Myanmar 2015 -1
+Palestina,_Estado_Observador 2021 2021.00
+Palestina,_Estado_Observador 2020 2020.00
+Palestina,_Estado_Observador 2019 2019.00
+Palestina,_Estado_Observador 2018 2018.00
+Palestina,_Estado_Observador 2017 2017.00
+Palestina,_Estado_Observador 2016 2016.00
+Palestina,_Estado_Observador 2015 2015.00
+Republica_Centroafrica 2021 26486.49
+Republica_Centroafrica 2020 37037.04
+Republica_Centroafrica 2019 33146.07
+Republica_Centroafrica 2018 20652.17
+Republica_Centroafrica 2017 14473.68
+Republica_Centroafrica 2016 -1
+Republica_Centroafrica 2015 -1
+Resto_de_nacionalidades_(no esp) 2021 367.19
+Resto_de_nacionalidades_(no esp) 2020 139.68
+Resto_de_nacionalidades_(no esp) 2019 299.43
+Resto_de_nacionalidades_(no esp) 2018 101.20
+Resto_de_nacionalidades_(no esp) 2017 77.61
+Resto_de_nacionalidades_(no esp) 2016 62.93
+Resto_de_nacionalidades_(no esp) 2015 58.90
+Ruanda 2021 -1
+Ruanda 2020 -1
+Ruanda 2019 -1
+Ruanda 2018 -1
+Ruanda 2017 -1
+Ruanda 2016 -1
+Ruanda 2015 8875.74
+Siria 2021 63341.27
+Siria 2020 72105.26
+Siria 2019 79956.34
+Siria 2018 73774.15
+Siria 2017 77510.58
+Siria 2016 55790.46
+Siria 2015 31282.72
+Somalia 2021 99748.11
+Somalia 2020 90710.38
+Somalia 2019 122058.82
+Somalia 2018 104797.98
+Somalia 2017 104810.13
+Somalia 2016 124838.71
+Somalia 2015 126104.42
+Sri_Lanka 2021 -1
+Sri_Lanka 2020 -1
+Sri_Lanka 2019 -1
+Sri_Lanka 2018 15957.45
+Sri_Lanka 2017 16086.96
+Sri_Lanka 2016 19036.14
+Sri_Lanka 2015 17966.90
+Sudan 2021 31610.94
+Sudan 2020 -1
+Sudan 2019 -1
+Sudan 2018 -1
+Sudan 2017 -1
+Sudan 2016 16906.47
+Sudan 2015 19531.25
+Total_(no esp) 2021 1811.09
+Total_(no esp) 2020 1080.28
+Total_(no esp) 2019 453.10
+Total_(no esp) 2018 242.28
+Total_(no esp) 2017 194.80
+Total_(no esp) 2016 135.39
+Total_(no esp) 2015 106.37
+Venezuela 2021 36353.09
+Venezuela 2020 22993.50
+Venezuela 2019 -1
+Venezuela 2018 -1
+Venezuela 2017 -1
+Venezuela 2016 -1
+Venezuela 2015 -1
+Yemen 2021 -1
+Yemen 2020 25000.00
+Yemen 2019 25048.17
+Yemen 2018 19402.99
+Yemen 2017 -1
+Yemen 2016 -1
+Yemen 2015 -1
